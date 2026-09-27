@@ -20,6 +20,7 @@ jaime@monjardino:~$ git log --story --oneline
 |---|---|---|---|
 | **[RIG](https://app-rig.monjardino.dev/)** | An agentic operating system for solo contractors: answers the calls they can't take, turns a job-site photo into a priced quote, and keeps the day's jobs in one feed. | React · Firebase · Gemini · Vapi | `in production` |
 | **[AAIT](https://github.com/jmonjardino/aait)** | Website and content platform for the Athletics Association of Terceira Island. | Next.js · TypeScript · Firebase | `client project` |
+| **[ABV Sintra](https://github.com/jmonjardino/abvsintra)** | New website for the Sintra volunteer fire brigade, where I serve. Static site; news and the vehicle fleet are managed as Markdown, no database. | Astro · TypeScript | `in progress` |
 | **[Zonecraft](https://github.com/jmonjardino/zonecraft)** | A GNOME Shell window organizer that never moves anything behind your back: draw a grid per monitor, assign windows, apply. | TypeScript · GJS · GTK4 | `early dev` |
 
 ### `cat stack.txt`
